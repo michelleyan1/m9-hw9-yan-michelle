@@ -134,7 +134,7 @@ footer {
 
 @media screen and (max-width: 500px) {
   header {
-    max-height: 200px;
+    max-height: 75px;
   }
 
   nav > a {
